@@ -725,6 +725,15 @@ const contributors = [
       github : "https://github.com/sumitkr2000",
       gender : "Male"
   },
+  {
+    name : "Palak Shivlani",
+    branch : "Computer Science and Engineering",
+    college : "Lovely Professional University",
+    year : 2023, 
+    linkedin : "https://www.linkedin.com/in/palak-shivlani-69766a190/",
+    github : "https://github.com/palakshivlani-11",
+    gender : "Female"
+  },
 ];
 
 export default contributors;
